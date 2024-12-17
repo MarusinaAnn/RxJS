@@ -1,0 +1,21 @@
+{
+  "name": "help-desk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "forever server.js",
+    "watch": "forever -w server.js"
+  },
+  "author": "Unker",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "forever": "^2.0.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.1.0"
+  }
+}

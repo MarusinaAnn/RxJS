@@ -1,0 +1,8 @@
+# примеры API-запросов
+
+@port = 3000
+@baseUrl = http://localhost:{{port}}
+
+# получение тикетов
+GET {{baseUrl}}/messages/unread
+

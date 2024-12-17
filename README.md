@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "11. RxJS"
 
-web page: https://marusinaann.github.io/RxJS/
+web page: https://marusinaann.github.io/RxJS-page/
 
 
 Правила сдачи задания:

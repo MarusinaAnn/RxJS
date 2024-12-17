@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "11. RxJS"
 
-web page: https://unker.github.io/ahj-homeworks-rxjs-web/
+web page: https://marusinaann.github.io/RxJS/
 
 
 Правила сдачи задания:
